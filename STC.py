@@ -1,9 +1,6 @@
-# code by Biki Mahamood
-# my facebook ( https://www.facebook.com/bikiterabap )
-
 #      (C) Copyright 407 Authentic Exploit
 #      Rebuild Copyright Can't make u real programmer:)
-#      Coded By Biki Mahamood.
+#      Coded By Shani.
 
 import os
 try:
